@@ -21,7 +21,7 @@ NO=3;
 NL=[5 5 5 5 5 4 4];
 
 % load data
-load sample_data
+load electrospin
 
 
 iter_data=iter_data(1:N);
